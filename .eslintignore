@@ -1,0 +1,44 @@
+# nodejs
+node_modules
+
+# nextjs
+out
+.next
+public
+
+# vscode
+.vscode
+
+# partytown
+/public/~partytown/
+
+# pc
+.DS_Store
+
+#config
+next.config.js
+next.config.mjs
+
+sst.config.js
+
+playwright.config.js
+
+sentry.server.config.js
+sentry.client.config.js
+sentry.edge.config.js
+
+tailwind.config.js
+postcss.config.js
+
+# sst
+.open-next
+.sst
+
+# scripts
+dist/**/*
+
+# env
+src/env/**/*
+
+# docker
+data/**/*
